@@ -72,7 +72,7 @@ im culer
 Id rubika @Auth1_culer
 This script is updated every 24 hours and new codes are added
 """)
-or i in bnr:
+for i in bnr:
   sys.stdout.write(i)
   sys.stdout.flush()
   sleep(0.020)
