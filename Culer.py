@@ -31,7 +31,8 @@ print("")
 print("salam")
 print("start")
 bnr = (Fore.LIGHTGREEN_EX+f"""
-             ⠀⢀⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+      
+              ⠀⢀⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠻⣥⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡿⠀⡿⠻⣆⠙⠦⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡄⠁⠀⠘⣆⡔⢶⣆⠉⢷⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -66,6 +67,15 @@ for i in bnr:
   sys.stdout.flush()
   sleep(0.010)
 print("")
+bnr = (Fore.LIGHTGREEN_EX+f"""
+im culer
+Id rubika @Auth1_culer
+This script is updated every 24 hours and new codes are added
+""")
+or i in bnr:
+  sys.stdout.write(i)
+  sys.stdout.flush()
+  sleep(0.020)
 code=input(f"""
 (1)mokharab
 (2)dx
