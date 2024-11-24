@@ -4,6 +4,7 @@ from time import sleep
 import sys
 import datetime
 import requests
+from colorama import Fore
 system("clear")
 os.system("")
 class color:
@@ -29,7 +30,7 @@ print("")
 print("")
 print("salam")
 print("start")
-print(f"""\033[34m
+bnr = (Fore.LIGHTGREEN_EX+f"""
              ⠀⢀⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠻⣥⠙⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡿⠀⡿⠻⣆⠙⠦⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -60,6 +61,11 @@ print(f"""\033[34m
  
 
 """)
+for i in bnr:
+  sys.stdout.write(i)
+  sys.stdout.flush()
+  sleep(0.010)
+print("")
 code=input(f"""
 (1)mokharab
 (2)dx
