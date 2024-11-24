@@ -76,7 +76,7 @@ for i in bnr:
   sys.stdout.write(i)
   sys.stdout.flush()
   sleep(0.020)
-code=input(f"""
+code=input(f"""\033[36m
 (1)mokharab
 (2)dx
 (3)hasas
