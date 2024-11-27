@@ -1,3 +1,4 @@
+import sys
 from time import sleep
 from colorama import Fore
 bnr = (Fore.LIGHTGREEN_EX+f"""
