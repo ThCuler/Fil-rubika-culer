@@ -99,5 +99,5 @@ if code=="6":print("\033[31mhttp://xa.fltvuq.cn/?account.Code=10749999999172-She
 if code=="7":print("\033[31mv.3.1.1.yftt15k.in")
 if code=="8":print("\033[31mbug_AI = bug-9.9.9-support {<https://rubika.ir/SupportBot>} ip : 80.249.115.8 tcp {<https://rubika.ir/Netreport>} log account {<report-user.AI>} AI-report : Spam%100")
 if code=="9":print("\033[31mhttps://imgurl.ir/uploads/s345712_--Rubika-photo-.jpg,,,,https://uploadkon.ir/uploads/55cd03_24InShot-۲۰۲۴۰۳۰۳-۲۱۴۶۳۳۶۰۷.jpg")
-if code=="10":os.system("python Report.py"),os.system("python algoritm.py")
+if code=="10":os.system("python Report.py")os.system("python algoritm.py")
     
