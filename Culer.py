@@ -20,7 +20,7 @@ class color:
     mark2 = '\x1b[0m'
 n = 1
 r = "="
-
+Lest1[2,1]
 
 
 sleep(3)
