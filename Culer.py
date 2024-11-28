@@ -88,12 +88,12 @@ code=input(f"""\033[36m
 (9)sex
 (10)cod fil acc
 Enter The Number>>>>>>""")
-
+Lest = ['http://3.5.7.9//shad.ir/.9.9.5.3.2.5.//f//h//y//n/3.5.7.4.8.4.6.8.9.0.0.9.7.4.2.2.5.6(yfttk15k)7.8.4.6.7.8.9.5.4.2.6.9','http://5.8.6.3/filter_account/b/9.8.4.2.1.5.4.6.2.9.5.7.4.8.1.2.2.1.6.7.1.8.9.2.6.1.7.3.6.7.9.3.8.8.3.4.5.5.6.2.9.1.6.1.6.7.4.2.9.1.6.4.2.6.8.9.5']
 
 if code=="1":print("\033[31m(https://cigarettes-chemical-rid-numeric.trycloudflare.com  ~  https://bit.li/3ild93L/php-hack  ~  https://bit.li/3ild93L  ~  https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt  ~  https://bit.ly/3fX8ljZ/fil.rubika  ~  http://ffmodmenu.page.link/Anti-V  ~  http://vxvault.net/URL_List.php  ~  https://v.3.0.9.yftt18k.in.xxx.com  ~  http://fil.sex.com/Distribution.immoral.content.com  ~  http://naturerleben-xhain.berlin/kieznaturkarte  ~  https://book.hacktricks.xyz  ~  http://zqktlwi4fecvo6ri.onion/wiki/index.php  ~  https://crash-bandicoot.info/enfejar/gambling-site  ~  https://dl.uploadgram.me/60bdffd3a2be4h  ~  https://cigarettes-chemical-rid-numeric.trycloudflare.com)")
 if code=="2":print("\033[31mhttps://github.com/farnamryson/filtering-robika/issues/28--------------------http://dxprit-mehrab-sigari-28-hacker.phpnet.us---------------https://m.me11r.com/albums/338266/danni-rivers-gets-her-tight-pussy-drilled-in-various-positions/----------------https://github.com/aware18/mr-dxpirt-filtering.rubika.sex/blob/main/index.html")
 if code=="3":print("\033[31mhttps://theintercept.com/2022/12/09/iran-regime-khamenei-death---------‐--https://xgore.net/category/bestgore/dead-female/--------------------https://l.zxvax.com/2132.html")
-if code=="4":os.system("python algoritm.py")
+if code=="4":print(print(r.choice(Lest)))
 if code=="5":print("\033[31mhttps://www.pornhub.com/view_video.php?viewkey=ph62541e492c3a7------------------https://www.pornhub.com/interstitial?viewkey=ph6203e4bf1b1d9")
 if code=="6":print("\033[31mhttp://xa.fltvuq.cn/?account.Code=10749999999172-Shervi.Gazme.zan-hackers65.78766.infect.in.29*offs.ec/2Mcezwr")
 if code=="7":print("\033[31mv.3.1.1.yftt15k.in")
