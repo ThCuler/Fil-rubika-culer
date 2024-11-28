@@ -1,3 +1,4 @@
+import random as r 
 import os
 from os import system
 from time import sleep
