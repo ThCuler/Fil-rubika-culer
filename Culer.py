@@ -70,7 +70,7 @@ for i in bnr:
 print("")
 bnr = (Fore.LIGHTGREEN_EX+f"""
 im culer
-Id rubika @Auth1_culer
+Id rubika : nadaram
 This script is updated every 24 hours and new codes are added
 """)
 for i in bnr:
