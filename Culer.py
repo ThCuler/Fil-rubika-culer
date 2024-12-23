@@ -69,8 +69,7 @@ for i in bnr:
   sleep(0.010)
 print("")
 bnr = (Fore.LIGHTGREEN_EX+f"""
-im culer
-My friends: ultra--------Fiirile         
+im culer         
 Id rubika : nadaram
 This script is updated every 24 hours and new codes are added
 """)
