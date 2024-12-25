@@ -3,7 +3,6 @@ import os
 from os import system
 from time import sleep
 import sys
-import datetim
 from colorama import Fore
 system("clear")
 os.system("")
