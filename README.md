@@ -18,4 +18,4 @@ cd Fil-rubika-culer
 
 
 
-python Culer.py
+python Bullet.py
