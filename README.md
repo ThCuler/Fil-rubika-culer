@@ -4,7 +4,7 @@ rm -rf Fil-rubika-culer
 
 
 
-rm -rf Culer.py
+rm -rf Bullet.py
 
 
 
